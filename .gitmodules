@@ -1,0 +1,3 @@
+[submodule "myBuilding"]
+	path = myBuilding
+	url = https://github.com/sahil0nagar/myBuilding.git
